@@ -1,0 +1,16 @@
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\bin\Debug\net5.0\41_Find the area and perimeter of a given input values.exe
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\bin\Debug\net5.0\41_Find the area and perimeter of a given input values.deps.json
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\bin\Debug\net5.0\41_Find the area and perimeter of a given input values.runtimeconfig.json
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\bin\Debug\net5.0\41_Find the area and perimeter of a given input values.runtimeconfig.dev.json
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\bin\Debug\net5.0\41_Find the area and perimeter of a given input values.dll
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\bin\Debug\net5.0\ref\41_Find the area and perimeter of a given input values.dll
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\bin\Debug\net5.0\41_Find the area and perimeter of a given input values.pdb
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.AssemblyInfoInputs.cache
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.AssemblyInfo.cs
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.csproj.CoreCompileInputs.cache
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.dll
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\ref\41_Find the area and perimeter of a given input values.dll
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.pdb
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.genruntimeconfig.cache
+C:\Users\manda\source\repos\Assignment-11\41_Find the area and perimeter of a given input values\obj\Debug\net5.0\41_Find the area and perimeter of a given input values.csproj.AssemblyReference.cache

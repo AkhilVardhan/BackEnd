@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Compound Interest Program/1.0.0": {
+        "runtime": {
+          "Compound Interest Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compound Interest Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
