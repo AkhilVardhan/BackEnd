@@ -1,0 +1,16 @@
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\bin\Debug\net5.0\Compound Interest Program.exe
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\bin\Debug\net5.0\Compound Interest Program.deps.json
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\bin\Debug\net5.0\Compound Interest Program.runtimeconfig.json
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\bin\Debug\net5.0\Compound Interest Program.runtimeconfig.dev.json
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\bin\Debug\net5.0\Compound Interest Program.dll
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\bin\Debug\net5.0\ref\Compound Interest Program.dll
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\bin\Debug\net5.0\Compound Interest Program.pdb
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.csproj.AssemblyReference.cache
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.AssemblyInfoInputs.cache
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.AssemblyInfo.cs
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.csproj.CoreCompileInputs.cache
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.dll
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\ref\Compound Interest Program.dll
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.pdb
+C:\Users\manda\source\repos\Assignment-11\Compound Interest Program\obj\Debug\net5.0\Compound Interest Program.genruntimeconfig.cache
