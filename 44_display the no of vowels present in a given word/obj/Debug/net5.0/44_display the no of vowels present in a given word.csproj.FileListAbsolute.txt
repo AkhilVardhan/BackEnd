@@ -1,0 +1,16 @@
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\bin\Debug\net5.0\44_display the no of vowels present in a given word.exe
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\bin\Debug\net5.0\44_display the no of vowels present in a given word.deps.json
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\bin\Debug\net5.0\44_display the no of vowels present in a given word.runtimeconfig.json
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\bin\Debug\net5.0\44_display the no of vowels present in a given word.runtimeconfig.dev.json
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\bin\Debug\net5.0\44_display the no of vowels present in a given word.dll
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\bin\Debug\net5.0\ref\44_display the no of vowels present in a given word.dll
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\bin\Debug\net5.0\44_display the no of vowels present in a given word.pdb
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.csproj.AssemblyReference.cache
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.AssemblyInfoInputs.cache
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.AssemblyInfo.cs
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.csproj.CoreCompileInputs.cache
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.dll
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\ref\44_display the no of vowels present in a given word.dll
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.pdb
+C:\Users\manda\source\repos\Task 12 Assignment\44_display the no of vowels present in a given word\obj\Debug\net5.0\44_display the no of vowels present in a given word.genruntimeconfig.cache
