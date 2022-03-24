@@ -1,54 +1,39 @@
-﻿/*44) WAP to display no of vowels present in the given word.
-    Input : inputString
-    Display : Vowels are not  present
-	     for more than one vowel, {NO of Vowels} are present.
-	     for single vowel, Only one vowel is present.
+﻿/*43) WAP to take inputs as mentioned below and display the below message.
+    1) input1 : FromDate
+    2) input2 : ToDate
+    Display : if FromDate is less than todays date then display message as 
+		" it is invalid .. FromDate should be equal or more than todays date".
+	      if ToDate is higher than todays date then display message as 
+	        " it is invalid.. ToDate should be lower or equal to Todays date"/
+	     If Today is b/n from date and todate then display message as
+		" it is Valid.. Today is b/n FromDate and Todate"
 */
 using System;
+using System.Globalization;
 
-namespace _44_display_the_no_of_vowels_present_in_a_given_word
+namespace _43_From_date_is_less_than_the_today_s_date
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            char[] inputstring = new char[100];
-            int i, vowels, x;
+            var FromDate = DateTime.ParseExact("01/01/2022", "MM/dd/yyyy", CultureInfo.InvariantCulture);
+            var ToDate = DateTime.ParseExact("12/31/2022", "MM/dd/yyyy", CultureInfo.InvariantCulture);
+            var todaysDate = DateTime.Today;
 
-            vowels = 0;
-
-            // Enter the length of the string
-            Console.WriteLine("Please enter the  Number Of Words :\n");
-            x = int.Parse(Console.ReadLine());
-
-            // Enter the string
-            Console.WriteLine("Enter string Name :\n");
-            for (i = 0; i < x; i++)
+            if (FromDate > todaysDate)
             {
-                inputstring[i] = Convert.ToChar(Console.Read());
+                Console.WriteLine("It is invalid .. FromDate should be equal or lower than todays date");
             }
-
-            // Iterating the string
-            for (i = 0; inputstring[i] != '\0'; i++)
+            else if (ToDate < todaysDate)
             {
-
-                // Check if the character is a vowel
-                if (inputstring[i] == 'a' || inputstring[i] == 'e' ||
-                    inputstring[i] == 'i' || inputstring[i] == 'o' ||
-                    inputstring[i] == 'u' || inputstring[i] == 'A' ||
-                    inputstring[i] == 'E' || inputstring[i] == 'I' ||
-                    inputstring[i] == 'O' || inputstring[i] == 'U')
-                {
-
-                    // Increment the vowels
-                    vowels++;
-                }
-
-
+                Console.WriteLine("It is invalid.. ToDate should be higher or equal to Todays date");
             }
-            // Display the count of vowels and consonant
-            Console.WriteLine("\n Number of vowels Are Present = " + vowels);
+            else
+            {
+                Console.WriteLine("It is Valid.. Today is between FromDate and Todate");
+            }
             Console.ReadLine();
         }
     }
